@@ -1,0 +1,7 @@
+org.cloudbus.cloudsim.allocationpolicies.vmplacementgroups
+org.cloudbus.cloudsim.resources.utilization
+org.cloudbus.cloudsim.vms.vmplacementgroup
+org.cloudsimplus.builders.tables.vmstatistics
+org.cloudsimplus.examples.traces.vmplacementgroups
+org.cloudsimplus.traces.azure
+org.cloudsimplus.traces.vmallocationpolicywithgroups
